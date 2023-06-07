@@ -31,8 +31,4 @@ $ javac TextAdventureGame.java
 $ java TextAdventureGame
 ```
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 Feel free to contribute, enhance, and have fun with the Text Adventure Game!
